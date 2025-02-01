@@ -1,4 +1,5 @@
 [
+,
 { "url":"aladalona/00_aladalona.wav","type":"audio","bank":"aladalona","n":0},
 { "url":"aladalona/01_aladalona.wav","type":"audio","bank":"aladalona","n":1},
 { "url":"aladalona/02_aladalona.wav","type":"audio","bank":"aladalona","n":2},
@@ -56,6 +57,11 @@
 { "url":"omsing/00010_omsing.wav","type":"audio","bank":"omsing","n":10},
 { "url":"omsing/00011_omsing.wav","type":"audio","bank":"omsing","n":11},
 { "url":"omsing/00012_omsing.wav","type":"audio","bank":"omsing","n":12},
+{ "url":"orchtrx/1.wav","type":"audio","bank":"orchtrx","n":0},
+{ "url":"orchtrx/2.wav","type":"audio","bank":"orchtrx","n":1},
+{ "url":"orchtrx/3.wav","type":"audio","bank":"orchtrx","n":2},
+{ "url":"orchtrx/4.wav","type":"audio","bank":"orchtrx","n":3},
+{ "url":"orchtrx/5.wav","type":"audio","bank":"orchtrx","n":4},
 { "url":"pearldive/00_pearldive.wav","type":"audio","bank":"pearldive","n":0},
 { "url":"pearldive/01_pearldive.wav","type":"audio","bank":"pearldive","n":1},
 { "url":"pearldive/02_pearldive.wav","type":"audio","bank":"pearldive","n":2},
