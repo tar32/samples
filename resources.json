@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
 { "url":"aladalona/00_aladalona.wav","type":"audio","bank":"aladalona","n":0},
 { "url":"aladalona/01_aladalona.wav","type":"audio","bank":"aladalona","n":1},
 { "url":"aladalona/02_aladalona.wav","type":"audio","bank":"aladalona","n":2},
@@ -599,5 +598,4 @@
 { "url":"samples/00092_voygreet.wav","type":"audio","bank":"samples","n":296},
 { "url":"samples/00093_voygreet.wav","type":"audio","bank":"samples","n":297},
 { "url":"samples/00094_voygreet.wav","type":"audio","bank":"samples","n":298}
->>>>>>> 0d12883 (Added shabbaba bank)
 ]
