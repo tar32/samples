@@ -297,8 +297,6 @@
 { "url":"voygreet/00092_voygreet.wav","type":"audio","bank":"voygreet","n":52},
 { "url":"voygreet/00093_voygreet.wav","type":"audio","bank":"voygreet","n":53},
 { "url":"voygreet/00094_voygreet.wav","type":"audio","bank":"voygreet","n":54}
-=======
-,
 { "url":"samples/00_aladalona.wav","type":"audio","bank":"samples","n":0},
 { "url":"samples/01_aladalona.wav","type":"audio","bank":"samples","n":1},
 { "url":"samples/02_aladalona.wav","type":"audio","bank":"samples","n":2},
