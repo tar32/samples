@@ -157,6 +157,7 @@
 { "url":"pearldiveatmo/00_pearldiveatmo.wav","type":"audio","bank":"pearldiveatmo","n":0},
 { "url":"pearldiveatmo/01_pearldiveatmo.wav","type":"audio","bank":"pearldiveatmo","n":1},
 { "url":"pearldiveatmo/02_pearldiveatmo.wav","type":"audio","bank":"pearldiveatmo","n":2},
+{ "url":"shabbaba/shabbaba.wav","type":"audio","bank":"shabbaba","n":0},
 { "url":"tapepiano/00_tapepiano.wav","type":"audio","bank":"tapepiano","n":0},
 { "url":"tapepiano/01_tapepiano.wav","type":"audio","bank":"tapepiano","n":1},
 { "url":"tapepiano/02_tapepiano.wav","type":"audio","bank":"tapepiano","n":2},
@@ -297,6 +298,7 @@
 { "url":"voygreet/00092_voygreet.wav","type":"audio","bank":"voygreet","n":52},
 { "url":"voygreet/00093_voygreet.wav","type":"audio","bank":"voygreet","n":53},
 { "url":"voygreet/00094_voygreet.wav","type":"audio","bank":"voygreet","n":54}
+<<<<<<< HEAD
 { "url":"samples/00_aladalona.wav","type":"audio","bank":"samples","n":0},
 { "url":"samples/01_aladalona.wav","type":"audio","bank":"samples","n":1},
 { "url":"samples/02_aladalona.wav","type":"audio","bank":"samples","n":2},
@@ -596,4 +598,6 @@
 { "url":"samples/00092_voygreet.wav","type":"audio","bank":"samples","n":296},
 { "url":"samples/00093_voygreet.wav","type":"audio","bank":"samples","n":297},
 { "url":"samples/00094_voygreet.wav","type":"audio","bank":"samples","n":298}
+=======
+>>>>>>> 3be676c (updated resources)
 ]
